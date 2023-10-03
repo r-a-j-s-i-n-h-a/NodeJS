@@ -4,7 +4,7 @@ import * as fs from 'fs'
 // Creating directory -path should be there
 // fs.mkdir('C:\\Users\\Prateek\\Desktop\\nodejs\\ch7\\prateek',function(error){
 //     if(error) throw error;
-//     console.log("Directory ccreated...");c
+//     console.log("Directory ccreated...");
 // })
 // Creating directory -path should be there
 
